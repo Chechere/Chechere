@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chechere
 - 👀 I’m interested in videogames, fantasy and programming.
-- 🌱 I’m currently learning programming on Android OS.
+- 🌱 I’m currently learning about how to program on Android OS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
