@@ -45,7 +45,7 @@ Durante mi tiempo libre, me gusta aprender sobre nuevas tecnologías, mejorar en
 <h3>Tecnologías que quiero mejorar o quiero realizar proyectos este 2025 👆</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,vim,git,arduino,unity" alt="Iconos con las tecnologias que quiero mejorar o realizar proyectos este 2025">  
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,vim,git,arduino,unity,github" alt="Iconos con las tecnologias que quiero mejorar o realizar proyectos este 2025">  
   </a>
 </p>
 
