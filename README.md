@@ -39,13 +39,13 @@ Durante mi tiempo libre, me gusta aprender sobre nuevas tecnologías, mejorar en
 <h3>Tecnologías que domino 💪</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,androidstudio,bootstrap,c,cpp,cs,html,css,js,postman,dotnet,python,fastapi,mysql,linux,vim,bash,git,github,matlab,arduino,blender,unity" alt="Iconos con las tecnologías que domino">  
+    <img src="https://skillicons.dev/icons?i=java,androidstudio,spring,bootstrap,c,cpp,cs,html,css,js,postman,dotnet,visualstudio,python,fastapi,mysql,linux,vim,bash,git,github,matlab,arduino,blender,unity,gamemakerstudio" alt="Iconos con las tecnologías que domino">  
   </a>
 </p>
 <h3>Tecnologías que quiero mejorar o quiero realizar proyectos este 2025 👆</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,vim,git,arduino,unity,github" alt="Iconos con las tecnologias que quiero mejorar o realizar proyectos este 2025">  
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,vim,git,arduino,unity,gamemakerstudio,github" alt="Iconos con las tecnologias que quiero mejorar o realizar proyectos este 2025">  
   </a>
 </p>
 
