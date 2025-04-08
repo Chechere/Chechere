@@ -61,7 +61,7 @@ Durante mi tiempo libre, me gusta aprender sobre nuevas tecnologías, mejorar en
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Link a mi correo cesartjmv@gmail.com"/>
   </a> 
   <a href="https://www.linkedin.com/in/cesar-tjmv/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link a mi LinkedIn Cesar Tejero/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link a mi LinkedIn Cesar Tejero"/>
   </a> 
 </p>
 
