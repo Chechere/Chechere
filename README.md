@@ -72,7 +72,7 @@ Durante mi tiempo libre, me gusta aprender sobre nuevas tecnologías, mejorar en
   <img src="https://github-readme-stats.vercel.app/api?username=Chechere&theme=monokai&locale=es&show_icons=true&hide_border=true&count_private=true" alt="Estadisticas de Github" height="180em"/>
 </p>
 <p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chechere&theme=monokai&locale=es&hide_border=true" alt="Racha de Commits con mas de 80desde que cree mi cuenta en github"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chechere&theme=monokai&locale=es&hide_border=true" alt="Racha de Commits con mas de 80 desde que cree mi cuenta en github"/>
 </p>
 
 <h2 align="center">Tecnologías 🤖</h2>
