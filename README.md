@@ -35,7 +35,7 @@ Durante mi tiempo libre, me gusta aprender sobre nuevas tecnologías, mejorar en
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chechere&theme=monokai&locale=es&hide_border=true" alt="Racha de Commits"/>
 </p>
 
-<h2 align="center">Tecnologías</h2>
+<h2 align="center">Tecnologías 🤖</h2>
 <h3>Tecnologías que domino 💪</h3>
 <p align="center">
   <a href="https://skillicons.dev">
