@@ -39,15 +39,24 @@ Durante mi tiempo libre, me gusta aprender sobre nuevas tecnologías, mejorar en
 <h3>Tecnologías que domino</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,androidstudio,bootstrap,c,cpp,cs,html,css,postman,dotnet,python,fastapi,mysql,linux,vim,bash,git,github,matlab,arduino,blender,unity" alt="Iconos con las tecnologías que domino">  
+    <img src="https://skillicons.dev/icons?i=java,androidstudio,bootstrap,c,cpp,cs,html,css,js,postman,dotnet,python,fastapi,mysql,linux,vim,bash,git,github,matlab,arduino,blender,unity" alt="Iconos con las tecnologías que domino">  
   </a>
 </p>
-<h3>Tecnologías que quiero mejorar este 2025</h3>
-<h3>Tecnologías que quiero aprender este 2025</h3>
+<h3>Tecnologías que quiero mejorar o quiero realizar proyectos este 2025</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react" alt="Iconos con las tecnologías que domino">  
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,vim,git,arduino,unity" alt="Iconos con las tecnologias que quiero mejorar o realizar proyectos este 2025">  
   </a>
 </p>
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<h3>Tecnologías que quiero aprender este 2025</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,godot" alt="Iconos con las tecnologías que domino">  
+  </a>
+</p>
+
+
+
+<p align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</p>
