@@ -73,9 +73,6 @@ Durante mi tiempo libre, me gusta aprender sobre nuevas tecnologías, mejorar en
 </p>
 
 <p align="center"> 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Chechere&theme=monokai&hide_border=true&locale=es&short_numbers=true&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" /></a>
-
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chechere&theme=monokai&locale=es&hide_border=true" alt="Racha de Commits con mas de 80 desde que cree mi cuenta en github"/>
 </p>
 
