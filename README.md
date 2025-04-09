@@ -75,7 +75,7 @@ Durante mi tiempo libre, me gusta aprender sobre nuevas tecnologías, mejorar en
 <p align="center"> 
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=chechere&theme=monokai&hide_border=true&locale=es&short_numbers=true&date_format=n%2Fj%5B%2FY%5D" 
-          alt="Mi racha de commits y con mas de 80 commits desde que cree la cuenta en 2021" />
+          alt="Mi racha de commits y con mas de 500 commits desde que cree la cuenta en 2021" />
   </a>
 </p>
 
