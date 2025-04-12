@@ -83,20 +83,20 @@ Durante mi tiempo libre, me gusta aprender sobre nuevas tecnologías, mejorar en
 <h3>Tecnologías que domino 💪</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,androidstudio,spring,c,cpp,cs,html,css,js,bootstrap,postman,dotnet,visualstudio,python,fastapi,mysql,linux,mint,vim,bash,git,github,matlab,arduino,blender,unity,gamemakerstudio" alt="java, androidstudio, spring, c, cpp, cs, html, css, js, bootstrap, postman, dotnet, visualstudio, python, fastapi, mysql, linux, mint, vim, bash, git, github, matlab, arduino, blender, unity, gamemakerstudio">  
+    <img src="https://skillicons.dev/icons?i=java,androidstudio,spring,c,cpp,cs,html,css,js,bootstrap,postman,dotnet,visualstudio,python,fastapi,mysql,linux,mint,vim,bash,git,github,matlab,arduino,blender,unity,gamemakerstudio" alt="java, androidstudio, spring, c, cpp, cs, html, css, js, bootstrap, postman, dotnet, visualstudio, python, fastapi, mysql, linux, mint, vim, bash, git, github, matlab, arduino, blender, unity, game maker studio">  
   </a>
 </p>
 <h3>Tecnologías que quiero mejorar o quiero realizar proyectos este 2025 👆</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,vim,git,arduino,unity,gamemakerstudio,github" alt="html, css, js, python, vim, git, arduino, unity, gamemakerstudio, github">  
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,vim,git,arduino,unity,gamemakerstudio,github,dotnet" alt="html, css, js, python, vim, git, arduino, unity, gamemakerstudio, apoyar el opensource, dotnet">  
   </a>
 </p>
 
 <h3>Tecnologías que quiero aprender este 2025 👍</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,godot" alt="react, godot">  
+    <img src="https://skillicons.dev/icons?i=react,godot,docker,kotlin" alt="react, godot, docker, kotlin">  
   </a>
 </p>
 
