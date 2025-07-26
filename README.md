@@ -1,7 +1,7 @@
 <h3 align="center">Estudiante de Ingeniería Informática con gran pasión por la programación y el aprendizaje </h3> 
 
 <br/>
-<p align="center"> <img src="https://profile-counter.glitch.me/Chechere/count.svg" alt="Contador de Visitas a este README"/> </p>
+<p align="center"> <img src="https://profile-counter.deno.dev/Chechere/count.svg" alt="Contador de Visitas a este README"/> </p>
 
 <h2 align="center">Sobre mí 🤠</h2>
 <p>
