@@ -93,7 +93,7 @@ Durante mi tiempo libre, me gusta aprender sobre nuevas tecnologías, mejorar en
   </a>
 </p>
 
-<h3>Tecnologías que quiero aprender este 2025 👍</h3>
+<h3>Tecnologías que quiero aprender este 2026 👍</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,godot,docker,kotlin" alt="react, godot, docker, kotlin">  
